@@ -1,5 +1,5 @@
 const clientId = '6311c706fdd244b0910d3ac9b2af646a'
-const redirectUri ='http://localhost:3000/'
+const redirectUri ='http://guspotilist-repo.vercel.app/'
 
 let accessToken;
 
