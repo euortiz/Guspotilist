@@ -1,5 +1,5 @@
 const clientId = '6311c706fdd244b0910d3ac9b2af646a'
-const redirectUri ='http://guspotilist-repo.vercel.app/'
+const redirectUri ='http://loutish-man.surge.sh'
 
 let accessToken;
 
